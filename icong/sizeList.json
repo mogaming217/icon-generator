@@ -1,0 +1,46 @@
+[{
+  "size": 20,
+  "rate": 1
+}, {
+  "size": 20,
+  "rate": 2
+}, {
+  "size": 20,
+  "rate": 3
+}, {
+  "size": 29,
+  "rate": 1
+}, {
+  "size": 29,
+  "rate": 2
+}, {
+  "size": 29,
+  "rate": 3
+}, {
+  "size": 40,
+  "rate": 1
+}, {
+  "size": 40,
+  "rate": 2
+}, {
+  "size": 40,
+  "rate": 3
+}, {
+  "size": 60,
+  "rate": 2
+}, {
+  "size": 60,
+  "rate": 3
+}, {
+  "size": 76,
+  "rate": 1
+}, {
+  "size": 76,
+  "rate": 2
+}, {
+  "size": 83.5,
+  "rate": 2
+}, {
+  "size": 1024,
+  "rate": 1
+}]
